@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/jpenton/ruby-variable-assignment-bootcamp-prep-000.svg?branch=master">
+
 # Variable Assignment
 
 ## Objectives
