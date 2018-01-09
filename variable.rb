@@ -1,4 +1,2 @@
-begin
- "greeting"
- "#greeting  #{Hello World}"
- end
+#{greeting}
+greeting = "Hello World"
