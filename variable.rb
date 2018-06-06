@@ -3,4 +3,3 @@
 
 
 var greeting = "Hello World"
-puts greeting
