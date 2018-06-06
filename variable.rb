@@ -2,5 +2,5 @@
  # give it the value of the string "Hello World"
 
 
-var greeting;
-greeting = "Hello World";
+var greeting = "Hello World"
+puts greeting
