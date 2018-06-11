@@ -8,3 +8,6 @@ describe "./variable.rb" do
   end
 
 end
+
+
+
