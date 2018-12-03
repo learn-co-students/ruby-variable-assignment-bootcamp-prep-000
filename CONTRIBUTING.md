@@ -7,7 +7,7 @@ We're really exited that you're about to contribute to the [open curriculum](htt
 If you notice a problem with the curriculum that you believe needs improvement
 but you're unable to make the change yourself, you should raise a Github issue
 containing a clear description of the problem. Include relevant snippets of
-the content and/or screenshots if applicable. Curriculum owners regularly review
+the content and/or screenshots if applicable. Curriculuhgm owners regularly review
 issue lists and your issue will be prioritized and addressed as appropriate.
 
 ## Submitting a Pull Request to Suggest an Improvement
