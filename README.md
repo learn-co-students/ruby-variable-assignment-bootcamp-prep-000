@@ -1,3 +1,4 @@
+=begin
 # Variable Assignment
 
 ## Objectives
@@ -34,3 +35,6 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+=end
+
+greeting = "Hello World"
