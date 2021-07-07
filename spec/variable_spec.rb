@@ -8,3 +8,9 @@ describe "./variable.rb" do
   end
 
 end
+
+<<<<<<< HEAD
+var greeting = 'Hello World';
+=======
+var greeting = 'Hello World'
+>>>>>>> 934dc8be4cadcb0b7f47acc30abcf408dc2c9edd
